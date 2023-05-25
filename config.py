@@ -1,0 +1,2 @@
+apiKey = "nq4KORrOs13hq59a1bUByJSasGHIALEJr3M0IUXU346kXE0xQ9419GrsQ8Op36aa"
+apiSecurity = "G5SyNeaUHZqBR06Qr9tuTx25dUTKRYzqgo9im5TDXfod8nWTCpTfnuite5oDoG51"
